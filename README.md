@@ -22,7 +22,7 @@ To run this project, you will need:
 
 ##Follow these steps to set up the project environment:
 
-*   git clone https://github.com/yourgithub/mediapipe-face-detection.git
+*   git clone https://github.com/Rasmusalbertsson/face_detection.git
     *   cd mediapipe-face-detection
 
 ## Install dependencies:
@@ -42,9 +42,6 @@ To run this project, you will need:
 
 #### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-#### Support
-For support, please open an issue on the GitHub project page or contact support@yourdomain.com.
 
 
 
