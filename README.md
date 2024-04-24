@@ -25,13 +25,13 @@ To run this project, you will need:
 *   git clone https://github.com/yourgithub/mediapipe-face-detection.git
     *   cd mediapipe-face-detection
 
-#Install dependencies:
+## Install dependencies:
 ---------------------------------
 
 - pip install -r requirements.txt
 
 
-#Usage:
+## Usage:
 ---------------------------------
 * Process Static Images:
     Add image paths to the IMAGE_FILES list in the main function and run the script to process the images. Processed images will be saved with annotations.
@@ -40,12 +40,12 @@ To run this project, you will need:
     Contributing
     Contributions are welcome. Please fork the repository and submit a pull request with your features or corrections.
 
-License
+#### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Support
+#### Support
 For support, please open an issue on the GitHub project page or contact support@yourdomain.com.
 
 
 
-#This README.md provides a clear and concise overview of what the application does, how to set it up, and how to use it, as well as how to contribute to the project or get support. Adjust the repository URL and contact email as per your actual project details.
+###### This README.md provides a clear and concise overview of what the application does, how to set it up, and how to use it, as well as how to contribute to the project or get support. Adjust the repository URL and contact email as per your actual project details.
